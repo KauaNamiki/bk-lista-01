@@ -8,9 +8,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\..\README.md = ..\..\README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio01", "Exercicio01\Exercicio01.csproj", "{88B2BA2B-B59C-4D5A-B027-6840E052F5BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.01 Entrada, Processamento e Saída de Dados", "Exercicio01\Exercicio.01 Entrada, Processamento e Saída de Dados.csproj", "{88B2BA2B-B59C-4D5A-B027-6840E052F5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02", "Exercicio02\Exercicio02.csproj", "{BD90709A-10FB-4F38-A40C-08CAA41E6D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.02 Entrada, Processamento e Saída de Dados", "Exercicio02\Exercicio.02 Entrada, Processamento e Saída de Dados.csproj", "{BD90709A-10FB-4F38-A40C-08CAA41E6D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.03 Entrada, Processamento e Saída de Dados", "Exercicio03\Exercicio.03 Entrada, Processamento e Saída de Dados.csproj", "{29C8EC4C-2AC4-4591-9E73-D1D7E6B4F414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.04 Entrada, Processamento e Saída de Dados", "Exercicio04\Exercicio.04 Entrada, Processamento e Saída de Dados.csproj", "{36BEE6AF-7593-4456-982F-1A0ABB595790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.05 Entrada, Processamento e Saída de Dados", "Exercicio05\Exercicio.05 Entrada, Processamento e Saída de Dados.csproj", "{22B4040A-BF34-4DDD-AF1C-5562EE0CB3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio.06 Entrada, Processamento e Saída de Dados", "Exercicio06\Exercicio.06 Entrada, Processamento e Saída de Dados.csproj", "{10EB1EA9-75E3-46EE-BC20-28912E5658CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio01 Estruturas de decisao", "Exercicio01 Estruturas de decisao\Exercicio01 Estruturas de decisao.csproj", "{2520FA14-91A0-452B-8DC9-81AB782BC196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio02 Estruturas de decisão", "Exercicio02 Estruturas de decisão\Exercicio02 Estruturas de decisão.csproj", "{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +38,30 @@ Global
 		{BD90709A-10FB-4F38-A40C-08CAA41E6D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD90709A-10FB-4F38-A40C-08CAA41E6D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD90709A-10FB-4F38-A40C-08CAA41E6D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C8EC4C-2AC4-4591-9E73-D1D7E6B4F414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C8EC4C-2AC4-4591-9E73-D1D7E6B4F414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C8EC4C-2AC4-4591-9E73-D1D7E6B4F414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C8EC4C-2AC4-4591-9E73-D1D7E6B4F414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BEE6AF-7593-4456-982F-1A0ABB595790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BEE6AF-7593-4456-982F-1A0ABB595790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BEE6AF-7593-4456-982F-1A0ABB595790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BEE6AF-7593-4456-982F-1A0ABB595790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22B4040A-BF34-4DDD-AF1C-5562EE0CB3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B4040A-BF34-4DDD-AF1C-5562EE0CB3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B4040A-BF34-4DDD-AF1C-5562EE0CB3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B4040A-BF34-4DDD-AF1C-5562EE0CB3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10EB1EA9-75E3-46EE-BC20-28912E5658CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EB1EA9-75E3-46EE-BC20-28912E5658CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EB1EA9-75E3-46EE-BC20-28912E5658CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EB1EA9-75E3-46EE-BC20-28912E5658CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2520FA14-91A0-452B-8DC9-81AB782BC196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2520FA14-91A0-452B-8DC9-81AB782BC196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2520FA14-91A0-452B-8DC9-81AB782BC196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2520FA14-91A0-452B-8DC9-81AB782BC196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
