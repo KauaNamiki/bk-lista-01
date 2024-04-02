@@ -10,7 +10,8 @@ class Program
 {
     static void Main()
     {
-        while (true)
+        bool running = true;
+        while (running)
         {
             double altura, largura, comprimento, volume;
 
@@ -39,9 +40,9 @@ class Program
             }
             if (opcao == 0)
             {
-                Console.ForegroundColor = ConsoleColor.DarkRed ;
+                Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("Saindo");
-                break;
+                return;
             }
             if (opcao == 1)
             {

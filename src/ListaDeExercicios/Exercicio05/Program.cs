@@ -9,7 +9,8 @@
     {
         static void Main()
         {
-            while (true)
+            bool running = true;
+            while (running)
             {
                 double Nota1, PesoNota1, Nota2, PesoNota2, MédiaPonderada;
 
@@ -42,7 +43,7 @@
                 {
                     Console.ResetColor();
                     Console.WriteLine("Saindo");
-                    break;
+                    return;
                 }
                 if (opcao == 1)
                 {

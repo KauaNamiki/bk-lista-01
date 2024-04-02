@@ -8,7 +8,8 @@
     {
         static void Main()
         {
-            while (true)
+            bool running = true;
+            while (running)
             {
                 double Fahrenheit, Celsius;
 
@@ -24,7 +25,7 @@
                 Console.WriteLine("0 = sair");
                 Console.WriteLine("1 = Continuar");
                 Console.ResetColor();
-                if (!int.TryParse(Console.ReadLine(), out int opcao) || opcao < 0 ||  opcao > 1)
+                if (!int.TryParse(Console.ReadLine(), out int opcao) || opcao < 0 || opcao > 1)
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;
                     Console.WriteLine("Opção inválida, por favor selecione uma opção válida! \n ");
@@ -33,7 +34,7 @@
                 if (opcao == 0)
                 {
                     Console.WriteLine("Saindo");
-                    break;
+                    return;
                 }
                 if (opcao == 1)
                 {

@@ -10,7 +10,8 @@
     {
         static void Main()
         {
-            while (true)
+            bool running = true;
+            while (running)
             {
                 double ConsumoPorKM, ConsumoDeCombustivel, QuilometragemFinal, QuilometragemInicial;
 
@@ -28,7 +29,7 @@
                     continue;
 
                 }
-                                                 
+
 
                 Console.WriteLine("Digite o consumo de combustivel:");
                 ConsumoDeCombustivel = Convert.ToDouble(Console.ReadLine());
@@ -51,7 +52,7 @@
                 {
                     Console.ResetColor();
                     Console.WriteLine("Saindo");
-                    break;
+                    return;
                 }
                 if (opcao == 1)
                 {

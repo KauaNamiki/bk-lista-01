@@ -9,7 +9,8 @@
     {
         static void Main()
         {
-            while (true)
+            bool running = true;
+            while (running)
             {
                 double SalárioBase, TotalDeVendas, Comissão, SalárioTotal;
 
@@ -40,7 +41,7 @@
                 {
                     Console.ResetColor();
                     Console.WriteLine("Saindo");
-                    break;
+                    return;
                 }
                 if (opcao == 1)
                 {

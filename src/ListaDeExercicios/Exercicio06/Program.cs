@@ -1,5 +1,5 @@
 ﻿namespace Exercicio06
-    //Calcular a área de um terreno retangular.
+//Calcular a área de um terreno retangular.
 
 //exemplo de entrada: Comprimento do terreno = 10 metros, Largura do terreno = 5 metros
 //Fórmula: Área = Comprimento * Largura
@@ -9,7 +9,8 @@
     {
         static void Main()
         {
-            while (true)
+            bool running = true;
+            while (running)
             {
 
                 double Comprimento, Largura, Area;
@@ -38,7 +39,7 @@
                 {
                     Console.ResetColor();
                     Console.WriteLine("Saindo");
-                    break;
+                    return;
                 }
                 if (opcao == 1)
                 {
@@ -48,6 +49,6 @@
                 }
             }
         }
-    
+
     }
 }

@@ -8,7 +8,8 @@
     {
         static void Main()
         {
-            while (true)
+            bool running = true;
+            while (running)
             {
                 int A, B, C;
                 Console.WriteLine("Digite o primeiro valor:");
@@ -59,7 +60,7 @@
                 {
                     Console.ResetColor();
                     Console.WriteLine("Saindo");
-                    break;
+                    return;
                 }
                 if (opcao == 1)
                 {
