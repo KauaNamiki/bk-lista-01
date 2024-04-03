@@ -11,13 +11,12 @@
 
                 for (int multiplicando = 1; multiplicando <= 10; multiplicando++)
                 {
-
+           
                     Console.WriteLine($"{multiplicador} x {multiplicando} = {multiplicador * multiplicando}");
                 }
 
 
                 Console.WriteLine();
             }
-        }
     }
-}
+}}

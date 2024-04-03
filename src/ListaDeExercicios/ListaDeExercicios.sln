@@ -15,19 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.05 Entrada, Proce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio.06 Entrada, Processamento e Saída de Dados", "Exercicio06\Exercicio.06 Entrada, Processamento e Saída de Dados.csproj", "{10EB1EA9-75E3-46EE-BC20-28912E5658CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio01 Estruturas de decisao", "Exercicio01 Estruturas de decisao\Exercicio01 Estruturas de decisao.csproj", "{2520FA14-91A0-452B-8DC9-81AB782BC196}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 1 Estruturas de decisao", "Exercicio01 Estruturas de decisao\Exercicio 1 Estruturas de decisao.csproj", "{2520FA14-91A0-452B-8DC9-81AB782BC196}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio02 Estruturas de decisão", "Exercicio02 Estruturas de decisão\Exercicio02 Estruturas de decisão.csproj", "{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 2 Estruturas de decisão", "Exercicio02 Estruturas de decisão\Exercicio 2 Estruturas de decisão.csproj", "{3BD04BF6-F6B1-41A1-84D4-5DB3C425938A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio03 Estruturas de Decisão", "Exercicio03 Estruturas de Decisão\Exercicio03 Estruturas de Decisão.csproj", "{64AEF110-6078-4EB4-A947-23057F87E195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio 3 Estruturas de Decisão", "Exercicio03 Estruturas de Decisão\Exercicio 3 Estruturas de Decisão.csproj", "{64AEF110-6078-4EB4-A947-23057F87E195}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entrada, Processamento e Saida de dados", "Entrada, Processamento e Saida de dados", "{A7FFD768-1976-41C0-AE80-0F4B9F82F46F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estrutura de Decisao", "Estrutura de Decisao", "{538BDB3B-DD21-4721-A70A-6EDAA7399662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio04 Estruturas de decisao", "Exercicio04 Estruturas de decisao\Exercicio04 Estruturas de decisao.csproj", "{8A54BFA5-4A43-48BE-B234-9D74D6526539}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 4 Estruturas de decisao", "Exercicio04 Estruturas de decisao\Exercicio 4 Estruturas de decisao.csproj", "{8A54BFA5-4A43-48BE-B234-9D74D6526539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio05 Estruturas de Decisao", "Exercicio05 Estruturas de Decisao\Exercicio05 Estruturas de Decisao.csproj", "{628AE81D-16E6-4F50-A0D3-E3385293B34B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio 5 Estruturas de Decisao", "Exercicio05 Estruturas de Decisao\Exercicio 5 Estruturas de Decisao.csproj", "{628AE81D-16E6-4F50-A0D3-E3385293B34B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estruturas de Repetição", "Estruturas de Repetição", "{883705DA-634F-4063-B00A-DD8BBF33F28E}"
 EndProject
